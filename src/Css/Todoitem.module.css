@@ -1,0 +1,26 @@
+.smalldiv{
+  margin-left: 14px;  
+  font-size: 15px;
+  border: 1px solid black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 16px;
+  margin-top: 14px;
+}
+
+.buttoncolor{
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+}
+
+.darkdiv{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    margin-left: 14px;  
+    font-size: 15px;
+    /* border: 1px solid black; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 16px;
+    margin-top: 14px;
+}
